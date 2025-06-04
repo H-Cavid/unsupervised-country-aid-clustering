@@ -119,5 +119,10 @@ This project is licensed under **CC BY-NC-ND 4.0**.
 **Javid Hasanov**  
 Master's student in Data Science at FH Kiel
   
-[LinkedIn](https://www.linkedin.com/in/javidhasanov-tech) • [GitHub](https://github.com/H-Cavid)
+---
+## 📬 Contact & Socials
 
+- 📧 Email: [javid.hasanov@student.fh-kiel.de](mailto:javid.hasanov@student.fh-kiel.de)  
+- 💼 LinkedIn: [linkedin.com/in/javidhasanov-tech](https://www.linkedin.com/in/javidhasanov-tech/)  
+- 🐙 GitHub: [github.com/H-Cavid](https://github.com/H-Cavid)  
+- 📁 Portfolio: (https://www.javidhasanov.com/)
